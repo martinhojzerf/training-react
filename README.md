@@ -1,2 +1,2 @@
 # training-react
-Ejemplo
+Tic-tac-toe game.
